@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_tunic","variant":4,"earliestTime":1775743416,"latestTime":1775743416,"rows":[{"time":1775743416,"a":340000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/gobo_tunic","variant":4,"earliestTime":1775743416,"latestTime":1775751252,"rows":[{"time":1775743416,"a":340000,"b":-1,"p":null,"v":null},{"time":1775751252,"a":340000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
