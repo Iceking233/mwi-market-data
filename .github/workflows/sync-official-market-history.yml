@@ -24,7 +24,6 @@ jobs:
         with:
           repository: Iceking233/mwi-market-status
           path: source-repo
-          token: ${{ secrets.MWI_SYNC_REPO_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
