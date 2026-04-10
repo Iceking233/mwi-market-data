@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rough_tunic","variant":1,"earliestTime":1775811281,"latestTime":1775811281,"rows":[{"time":1775811281,"a":13500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rough_tunic","variant":1,"earliestTime":1775811281,"latestTime":1775815299,"rows":[{"time":1775811281,"a":13500,"b":-1,"p":null,"v":null},{"time":1775815299,"a":13500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
