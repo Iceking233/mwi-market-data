@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_defense_charm","variant":2,"earliestTime":1775922680,"latestTime":1775922680,"rows":[{"time":1775922680,"a":195000000,"b":-1,"p":230000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_defense_charm","variant":2,"earliestTime":1775922680,"latestTime":1775926838,"rows":[{"time":1775922680,"a":195000000,"b":-1,"p":230000000,"v":1},{"time":1775926838,"a":195000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
