@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_attack_charm","variant":1,"earliestTime":1776003808,"latestTime":1776003808,"rows":[{"time":1776003808,"a":-1,"b":-1,"p":300000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_attack_charm","variant":1,"earliestTime":1776003808,"latestTime":1776090841,"rows":[{"time":1776003808,"a":-1,"b":-1,"p":300000000,"v":1},{"time":1776090841,"a":-1,"b":-1,"p":295000000,"v":1}],"hourlyRetentionDays":60}
