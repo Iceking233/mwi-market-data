@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/chaotic_flail","variant":3,"earliestTime":1776272754,"latestTime":1776272754,"rows":[{"time":1776272754,"a":320000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/chaotic_flail","variant":3,"earliestTime":1776272754,"latestTime":1776276345,"rows":[{"time":1776272754,"a":320000000,"b":-1,"p":null,"v":null},{"time":1776276345,"a":320000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
