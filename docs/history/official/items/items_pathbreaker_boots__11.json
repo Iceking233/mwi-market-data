@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/pathbreaker_boots","variant":11,"earliestTime":1775797710,"latestTime":1775797710,"rows":[{"time":1775797710,"a":-1,"b":-1,"p":800000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/pathbreaker_boots","variant":11,"earliestTime":1775797710,"latestTime":1776229599,"rows":[{"time":1775797710,"a":-1,"b":-1,"p":800000000,"v":1},{"time":1776229599,"a":-1,"b":-1,"p":1000000000,"v":1}],"hourlyRetentionDays":60}
