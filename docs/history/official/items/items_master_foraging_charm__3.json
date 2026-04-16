@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_foraging_charm","variant":3,"earliestTime":1776368827,"latestTime":1776368827,"rows":[{"time":1776368827,"a":6000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_foraging_charm","variant":3,"earliestTime":1776368827,"latestTime":1776372912,"rows":[{"time":1776368827,"a":6000000,"b":-1,"p":null,"v":null},{"time":1776372912,"a":-1,"b":-1,"p":6000000,"v":1}],"hourlyRetentionDays":60}
