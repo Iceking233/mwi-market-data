@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_spear","variant":4,"earliestTime":1776520772,"latestTime":1776520772,"rows":[{"time":1776520772,"a":400000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_spear","variant":4,"earliestTime":1776520772,"latestTime":1776524848,"rows":[{"time":1776520772,"a":400000000,"b":-1,"p":null,"v":null},{"time":1776524848,"a":400000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
