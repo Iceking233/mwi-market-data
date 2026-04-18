@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_ranged_charm","variant":8,"earliestTime":1776513567,"latestTime":1776513567,"rows":[{"time":1776513567,"a":1300000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/master_ranged_charm","variant":8,"earliestTime":1776513567,"latestTime":1776516697,"rows":[{"time":1776513567,"a":1300000000,"b":-1,"p":null,"v":null},{"time":1776516697,"a":1300000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
