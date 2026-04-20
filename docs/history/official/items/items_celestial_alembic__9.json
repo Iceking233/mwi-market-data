@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_alembic","variant":9,"earliestTime":1776412250,"latestTime":1776412250,"rows":[{"time":1776412250,"a":-1,"b":-1,"p":5000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_alembic","variant":9,"earliestTime":1776412250,"latestTime":1776653786,"rows":[{"time":1776412250,"a":-1,"b":-1,"p":5000000,"v":1},{"time":1776653786,"a":-1,"b":780000000,"p":null,"v":null}],"hourlyRetentionDays":60}
