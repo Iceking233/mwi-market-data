@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_woodcutting_charm","variant":4,"earliestTime":1777039725,"latestTime":1777039725,"rows":[{"time":1777039725,"a":-1,"b":110000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_woodcutting_charm","variant":4,"earliestTime":1777039725,"latestTime":1777043522,"rows":[{"time":1777039725,"a":-1,"b":110000000,"p":null,"v":null},{"time":1777043522,"a":-1,"b":110000000,"p":null,"v":null}],"hourlyRetentionDays":60}
