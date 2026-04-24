@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_brewing_charm","variant":5,"earliestTime":1777004771,"latestTime":1777004771,"rows":[{"time":1777004771,"a":-1,"b":66000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/advanced_brewing_charm","variant":5,"earliestTime":1777004771,"latestTime":1777011629,"rows":[{"time":1777004771,"a":-1,"b":66000000,"p":null,"v":null},{"time":1777011629,"a":-1,"b":66000000,"p":null,"v":null}],"hourlyRetentionDays":60}
