@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wooden_fire_staff","variant":4,"earliestTime":1777619276,"latestTime":1777619276,"rows":[{"time":1777619276,"a":145,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/wooden_fire_staff","variant":4,"earliestTime":1777619276,"latestTime":1777629511,"rows":[{"time":1777619276,"a":145,"b":-1,"p":null,"v":null},{"time":1777629511,"a":145,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
