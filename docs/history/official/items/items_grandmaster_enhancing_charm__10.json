@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_enhancing_charm","variant":10,"earliestTime":1776821879,"latestTime":1776821879,"rows":[{"time":1776821879,"a":-1,"b":14000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/grandmaster_enhancing_charm","variant":10,"earliestTime":1776821879,"latestTime":1777619276,"rows":[{"time":1776821879,"a":-1,"b":14000000,"p":null,"v":null},{"time":1777619276,"a":13000000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
