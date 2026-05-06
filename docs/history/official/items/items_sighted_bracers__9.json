@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/sighted_bracers","variant":9,"earliestTime":1778078560,"latestTime":1778078560,"rows":[{"time":1778078560,"a":15500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/sighted_bracers","variant":9,"earliestTime":1778078560,"latestTime":1778082620,"rows":[{"time":1778078560,"a":15500000,"b":-1,"p":null,"v":null},{"time":1778082620,"a":15500000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
