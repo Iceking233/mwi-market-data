@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_enhancer","variant":18,"earliestTime":1777873209,"latestTime":1777873209,"rows":[{"time":1777873209,"a":-1,"b":-1,"p":56000000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_enhancer","variant":18,"earliestTime":1777873209,"latestTime":1778172012,"rows":[{"time":1777873209,"a":-1,"b":-1,"p":56000000000,"v":1},{"time":1778172012,"a":-1,"b":-1,"p":3000000000,"v":1}],"hourlyRetentionDays":60}
