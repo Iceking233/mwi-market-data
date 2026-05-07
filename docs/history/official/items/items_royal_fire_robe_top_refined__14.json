@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_fire_robe_top_refined","variant":14,"earliestTime":1778132088,"latestTime":1778132088,"rows":[{"time":1778132088,"a":-1,"b":10500000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/royal_fire_robe_top_refined","variant":14,"earliestTime":1778132088,"latestTime":1778138729,"rows":[{"time":1778132088,"a":-1,"b":10500000,"p":null,"v":null},{"time":1778138729,"a":-1,"b":10500000,"p":null,"v":null}],"hourlyRetentionDays":60}
