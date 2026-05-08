@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cotton_gloves","variant":2,"earliestTime":1778264618,"latestTime":1778264618,"rows":[{"time":1778264618,"a":250,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cotton_gloves","variant":2,"earliestTime":1778264618,"latestTime":1778271986,"rows":[{"time":1778264618,"a":250,"b":-1,"p":null,"v":null},{"time":1778271986,"a":250,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
