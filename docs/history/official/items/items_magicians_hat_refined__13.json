@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/magicians_hat_refined","variant":13,"earliestTime":1775481706,"latestTime":1775481706,"rows":[{"time":1775481706,"a":-1,"b":-1,"p":2200000000,"v":1}]}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/magicians_hat_refined","variant":13,"earliestTime":1775481706,"latestTime":1778493509,"rows":[{"time":1775481706,"a":-1,"b":-1,"p":2200000000,"v":1},{"time":1778493509,"a":-1,"b":3500000,"p":null,"v":null}],"hourlyRetentionDays":60}
