@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_shears","variant":4,"earliestTime":1777483628,"latestTime":1777483628,"rows":[{"time":1777483628,"a":-1,"b":-1,"p":21000,"v":3}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/burble_shears","variant":4,"earliestTime":1777483628,"latestTime":1778580790,"rows":[{"time":1777483628,"a":-1,"b":-1,"p":21000,"v":3},{"time":1778580790,"a":235000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
