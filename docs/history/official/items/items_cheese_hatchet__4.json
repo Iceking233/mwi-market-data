@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_hatchet","variant":4,"earliestTime":1778790252,"latestTime":1778790252,"rows":[{"time":1778790252,"a":4500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_hatchet","variant":4,"earliestTime":1778790252,"latestTime":1778796832,"rows":[{"time":1778790252,"a":4500,"b":-1,"p":null,"v":null},{"time":1778796832,"a":4500,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
