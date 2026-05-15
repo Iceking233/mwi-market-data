@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/red_culinary_hat","variant":16,"earliestTime":1778826106,"latestTime":1778826106,"rows":[{"time":1778826106,"a":-1,"b":10000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/red_culinary_hat","variant":16,"earliestTime":1778826106,"latestTime":1778834005,"rows":[{"time":1778826106,"a":-1,"b":10000000,"p":null,"v":null},{"time":1778834005,"a":-1,"b":10000000,"p":null,"v":null}],"hourlyRetentionDays":60}
