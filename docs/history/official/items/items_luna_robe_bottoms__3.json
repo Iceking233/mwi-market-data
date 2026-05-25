@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/luna_robe_bottoms","variant":3,"earliestTime":1779708286,"latestTime":1779708286,"rows":[{"time":1779708286,"a":3000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/luna_robe_bottoms","variant":3,"earliestTime":1779708286,"latestTime":1779715965,"rows":[{"time":1779708286,"a":3000000,"b":-1,"p":null,"v":null},{"time":1779715965,"a":3000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
