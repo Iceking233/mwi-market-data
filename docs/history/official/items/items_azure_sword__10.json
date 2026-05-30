@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/azure_sword","variant":10,"earliestTime":1780115880,"latestTime":1780115880,"rows":[{"time":1780115880,"a":10000000,"b":-1,"p":1000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/azure_sword","variant":10,"earliestTime":1780115880,"latestTime":1780123540,"rows":[{"time":1780115880,"a":10000000,"b":-1,"p":1000000,"v":1},{"time":1780123540,"a":10000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
