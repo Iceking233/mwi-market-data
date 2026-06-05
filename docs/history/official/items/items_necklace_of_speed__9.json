@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/necklace_of_speed","variant":9,"earliestTime":1780608794,"latestTime":1780608794,"rows":[{"time":1780608794,"a":-1,"b":640000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/necklace_of_speed","variant":9,"earliestTime":1780608794,"latestTime":1780616712,"rows":[{"time":1780608794,"a":-1,"b":640000,"p":null,"v":null},{"time":1780616712,"a":-1,"b":640000,"p":null,"v":null}],"hourlyRetentionDays":60}
