@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/lumberjacks_bottoms","variant":4,"earliestTime":1780955852,"latestTime":1780955852,"rows":[{"time":1780955852,"a":280000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/lumberjacks_bottoms","variant":4,"earliestTime":1780955852,"latestTime":1780959841,"rows":[{"time":1780955852,"a":280000000,"b":-1,"p":null,"v":null},{"time":1780959841,"a":280000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
