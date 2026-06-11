@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/collectors_boots","variant":11,"earliestTime":1781159640,"latestTime":1781159640,"rows":[{"time":1781159640,"a":120000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/collectors_boots","variant":11,"earliestTime":1781159640,"latestTime":1781174747,"rows":[{"time":1781159640,"a":120000000,"b":-1,"p":null,"v":null},{"time":1781174747,"a":120000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
