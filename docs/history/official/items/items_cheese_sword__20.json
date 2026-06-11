@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_sword","variant":20,"earliestTime":1781189094,"latestTime":1781189094,"rows":[{"time":1781189094,"a":-1,"b":5200,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_sword","variant":20,"earliestTime":1781189094,"latestTime":1781200711,"rows":[{"time":1781189094,"a":-1,"b":5200,"p":null,"v":null},{"time":1781200711,"a":-1,"b":5200,"p":null,"v":null}],"hourlyRetentionDays":60}
