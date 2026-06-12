@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rainbow_pot","variant":10,"earliestTime":1775008959,"latestTime":1775008959,"rows":[{"time":1775008959,"a":4500000,"b":-1,"p":null,"v":null}]}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rainbow_pot","variant":10,"earliestTime":1775008959,"latestTime":1781244759,"rows":[{"time":1775008959,"a":4500000,"b":null,"p":null,"v":0},{"time":1781244759,"a":-1,"b":10000000,"p":null,"v":null}],"hourlyRetentionDays":60}
