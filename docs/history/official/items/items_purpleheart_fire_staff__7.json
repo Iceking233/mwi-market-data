@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/purpleheart_fire_staff","variant":7,"earliestTime":1781679742,"latestTime":1781679742,"rows":[{"time":1781679742,"a":1000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/purpleheart_fire_staff","variant":7,"earliestTime":1781679742,"latestTime":1781697225,"rows":[{"time":1781679742,"a":1000000,"b":-1,"p":null,"v":null},{"time":1781697225,"a":1000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
