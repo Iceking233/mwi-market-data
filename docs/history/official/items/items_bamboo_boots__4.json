@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/bamboo_boots","variant":4,"earliestTime":1781774392,"latestTime":1781774392,"rows":[{"time":1781774392,"a":1000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/bamboo_boots","variant":4,"earliestTime":1781774392,"latestTime":1781785416,"rows":[{"time":1781774392,"a":1000000,"b":-1,"p":null,"v":null},{"time":1781785416,"a":1000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
