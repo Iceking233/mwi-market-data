@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/linen_hat","variant":6,"earliestTime":1782168177,"latestTime":1782168177,"rows":[{"time":1782168177,"a":100000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/linen_hat","variant":6,"earliestTime":1782168177,"latestTime":1782171612,"rows":[{"time":1782168177,"a":100000,"b":-1,"p":null,"v":null},{"time":1782171612,"a":100000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
