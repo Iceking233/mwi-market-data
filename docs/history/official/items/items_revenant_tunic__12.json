@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/revenant_tunic","variant":12,"earliestTime":1782620035,"latestTime":1782620035,"rows":[{"time":1782620035,"a":92000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/revenant_tunic","variant":12,"earliestTime":1782620035,"latestTime":1782633218,"rows":[{"time":1782620035,"a":92000000,"b":-1,"p":null,"v":null},{"time":1782633218,"a":92000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
