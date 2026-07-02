@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rough_hood","variant":7,"earliestTime":1783017653,"latestTime":1783017653,"rows":[{"time":1783017653,"a":80,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rough_hood","variant":7,"earliestTime":1783017653,"latestTime":1783020940,"rows":[{"time":1783017653,"a":80,"b":-1,"p":null,"v":null},{"time":1783020940,"a":80,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
