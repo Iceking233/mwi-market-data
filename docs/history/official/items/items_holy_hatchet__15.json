@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_hatchet","variant":15,"earliestTime":1783758569,"latestTime":1783758569,"rows":[{"time":1783758569,"a":-1,"b":-1,"p":600000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/holy_hatchet","variant":15,"earliestTime":1783758569,"latestTime":1784372338,"rows":[{"time":1783758569,"a":-1,"b":-1,"p":600000000,"v":1},{"time":1784372338,"a":-1,"b":-1,"p":62000,"v":1}],"hourlyRetentionDays":60}
