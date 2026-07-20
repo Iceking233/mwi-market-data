@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/colossus_plate_legs","variant":11,"earliestTime":1784560552,"latestTime":1784560552,"rows":[{"time":1784560552,"a":160000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/colossus_plate_legs","variant":11,"earliestTime":1784560552,"latestTime":1784564025,"rows":[{"time":1784560552,"a":160000000,"b":-1,"p":null,"v":null},{"time":1784564025,"a":160000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
