@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/bishops_codex_refined","variant":8,"earliestTime":1784856179,"latestTime":1784856179,"rows":[{"time":1784856179,"a":-1,"b":-1,"p":49000000,"v":4}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/bishops_codex_refined","variant":8,"earliestTime":1784856179,"latestTime":1784902020,"rows":[{"time":1784856179,"a":-1,"b":-1,"p":49000000,"v":4},{"time":1784902020,"a":-1,"b":-1,"p":49000000,"v":3}],"hourlyRetentionDays":60}
