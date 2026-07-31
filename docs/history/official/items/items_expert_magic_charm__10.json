@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_magic_charm","variant":10,"earliestTime":1785504570,"latestTime":1785504570,"rows":[{"time":1785504570,"a":-1,"b":520000000,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/expert_magic_charm","variant":10,"earliestTime":1785504570,"latestTime":1785510821,"rows":[{"time":1785504570,"a":-1,"b":520000000,"p":null,"v":null},{"time":1785510821,"a":-1,"b":520000000,"p":null,"v":null}],"hourlyRetentionDays":60}
