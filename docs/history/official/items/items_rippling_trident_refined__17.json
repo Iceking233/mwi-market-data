@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rippling_trident_refined","variant":17,"earliestTime":1776308916,"latestTime":1776308916,"rows":[{"time":1776308916,"a":30000000000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/rippling_trident_refined","variant":17,"earliestTime":1776308916,"latestTime":1787227560,"rows":[{"time":1776308916,"a":30000000000,"b":null,"p":null,"v":0},{"time":1787227560,"a":-1,"b":5000000,"p":null,"v":null}],"hourlyRetentionDays":60}
