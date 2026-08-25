@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_pot","variant":1,"earliestTime":1777793110,"latestTime":1777793110,"rows":[{"time":1777793110,"a":-1,"b":-1,"p":410000000,"v":1}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/celestial_pot","variant":1,"earliestTime":1777793110,"latestTime":1787641560,"rows":[{"time":1777793110,"a":null,"b":null,"p":410000000,"v":1},{"time":1787641560,"a":-1,"b":-1,"p":440500000,"v":2}],"hourlyRetentionDays":60}
