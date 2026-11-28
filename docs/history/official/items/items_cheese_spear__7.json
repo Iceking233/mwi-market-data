@@ -1,1 +1,1 @@
-{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_spear","variant":7,"earliestTime":1795867560,"latestTime":1795867560,"rows":[{"time":1795867560,"a":408000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
+{"version":1,"source":"official_marketplace_json","itemHrid":"/items/cheese_spear","variant":7,"earliestTime":1795867560,"latestTime":1795896365,"rows":[{"time":1795867560,"a":408000,"b":-1,"p":null,"v":null},{"time":1795896365,"a":376000,"b":-1,"p":null,"v":null}],"hourlyRetentionDays":60}
